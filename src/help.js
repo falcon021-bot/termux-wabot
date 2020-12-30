@@ -76,4 +76,4 @@ usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deact
 note : This command can be used if you are a group admin\n`
 }
 
-exports.help = help
+exports !help = help
